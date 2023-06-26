@@ -4,9 +4,9 @@ import Navbar from 'react-bootstrap/Navbar';
 function ContainerOutsideExample() {
   return (
     <Container>
-      <Navbar expand="lg" className="bg-body-tertiary ">
+      <Navbar expand="lg" className="bg-body-tertiary">
         <Container>
-          <Navbar.Brand href="#">Navbar</Navbar.Brand>
+          <Navbar.Brand href="#">Welcome to my Program</Navbar.Brand>
         </Container>
       </Navbar>
     </Container>
